@@ -16,7 +16,7 @@ const Services = () => {
                 {service.Icon}
               </span>
 
-              <h3 className='text-lg font-bold text-[#052c43] font-medium'>
+              <h3 className='text-lg font-bold text-[#052c43]'>
                 {service.title}
               </h3>
 
